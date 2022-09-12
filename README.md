@@ -1,2 +1,2 @@
 # code-challenge
-is a challenge in my bootcamp for students to present in the class after lecture
+is a data analytics challenge in my bootcamp for students to present in the class after lecture
